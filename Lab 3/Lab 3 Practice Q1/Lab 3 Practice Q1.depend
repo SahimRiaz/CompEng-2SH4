@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540255869 source:c:\users\sahim\onedrive\documents\mcmaster\electrical engineering 2 term 1\2sh4\lab 3 practice q1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
